@@ -1,4 +1,4 @@
-uvicorn app:app --reload
+uvicorn fast:app --reload
 
 
 
