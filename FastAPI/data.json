@@ -1,0 +1,82 @@
+{
+  "R001": {
+    "record_id": "R001",
+    "doctor_name": "Dr. Ananya Sharma",
+    "doctor_specialization": "General Medicine",
+    "patient_name": "Rahul Mehta",
+    "visit_date": "2025-03-10",
+    "diagnosis": "Viral Infection"
+  },
+  "R002": {
+    "record_id": "R002",
+    "doctor_name": "Dr. Rohan Verma",
+    "doctor_specialization": "Cardiology",
+    "patient_name": "Sunita Kapoor",
+    "visit_date": "2025-03-11",
+    "diagnosis": "Hypertension"
+  },
+  "R003": {
+    "record_id": "R003",
+    "doctor_name": "Dr. Neha Iyer",
+    "doctor_specialization": "Dermatology",
+    "patient_name": "Amit Joshi",
+    "visit_date": "2025-03-12",
+    "diagnosis": "Skin Allergy"
+  },
+  "R004": {
+    "record_id": "R004",
+    "doctor_name": "Dr. Vikram Singh",
+    "doctor_specialization": "Orthopedics",
+    "patient_name": "Pooja Malhotra",
+    "visit_date": "2025-03-12",
+    "diagnosis": "Knee Pain"
+  },
+  "R005": {
+    "record_id": "R005",
+    "doctor_name": "Dr. Kavita Rao",
+    "doctor_specialization": "Gynecology",
+    "patient_name": "Neelam Patil",
+    "visit_date": "2025-03-13",
+    "diagnosis": "Hormonal Imbalance"
+  },
+  "R006": {
+    "record_id": "R006",
+    "doctor_name": "Dr. Arjun Mehta",
+    "doctor_specialization": "Neurology",
+    "patient_name": "Suresh Nair",
+    "visit_date": "2025-03-13",
+    "diagnosis": "Migraine"
+  },
+  "R007": {
+    "record_id": "R007",
+    "doctor_name": "Dr. Pankaj Kulkarni",
+    "doctor_specialization": "Pulmonology",
+    "patient_name": "Ritu Sharma",
+    "visit_date": "2025-03-14",
+    "diagnosis": "Asthma"
+  },
+  "R008": {
+    "record_id": "R008",
+    "doctor_name": "Dr. Mehul Jain",
+    "doctor_specialization": "Gastroenterology",
+    "patient_name": "Nikhil Agarwal",
+    "visit_date": "2025-03-14",
+    "diagnosis": "Acid Reflux"
+  },
+  "R009": {
+    "record_id": "R009",
+    "doctor_name": "Dr. Sneha Banerjee",
+    "doctor_specialization": "Psychiatry",
+    "patient_name": "Ananya Bose",
+    "visit_date": "2025-03-15",
+    "diagnosis": "Anxiety Disorder"
+  },
+  "R010": {
+    "record_id": "R010",
+    "doctor_name": "Dr. Rajesh Khanna",
+    "doctor_specialization": "Endocrinology",
+    "patient_name": "Manoj Tiwari",
+    "visit_date": "2025-03-15",
+    "diagnosis": "Diabetes Type 2"
+  }
+}
