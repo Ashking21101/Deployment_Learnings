@@ -2,3 +2,8 @@ fastapi
 uvicorn
 pydantic
 pydantic[email]
+scikit-learn
+numpy
+pandas
+openpyxl
+streamlit
