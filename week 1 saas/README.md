@@ -1,3 +1,9 @@
+For myself
+to see the app running
+go to AWS app runner-> consultation app service-> resume-> app workds
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
