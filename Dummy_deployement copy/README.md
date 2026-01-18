@@ -5,7 +5,7 @@ This project demonstrates a **basic full-stack setup** using:
 - **Frontend**: React (Vite)
 - **Backend**: FastAPI
 - **Deployment**:
-  - Frontend → AWS Amplify (Static)
+  - Frontend → AWS  (Static)
   - Backend → AWS App Runner (Containerized)
 
 ---
